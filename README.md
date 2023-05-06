@@ -4,5 +4,3 @@ Features:
 2. You can change themes of board.
 3. You can chat with your opponent.
 4. Sounds added
-
-Link: https://kansal-online-chess.herokuapp.com/
